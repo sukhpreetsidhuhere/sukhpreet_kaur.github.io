@@ -3,5 +3,5 @@ Below is a link to my resume website. All the pages of the website are divided i
 # Link 
 https://sukhpreetsidhuhere.github.io/sukhpreet_kaur.github.io/
 # Tech stack used to build the website
- I have used HTML, CSS and JavaScript to build the website( 67% is HTML and 34% is CSS). I have used JavaScript just to show messages for the 
+ I have used HTML, CSS and JavaScript to build the website( 66% is HTML and 34% is CSS). I have used JavaScript just to show messages for the 
  submit form button(contact me page).
